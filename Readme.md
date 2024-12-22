@@ -1,1 +1,1 @@
-this proh=ject is developed by the instrutor hitesh chaudhary
+this project is developed by the instrutor hitesh chaudhary
